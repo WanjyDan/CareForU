@@ -1,0 +1,1229 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Dannie\.android\build-cache\7e70eaddcba386c2a8836600fa94ae7ad944c245\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="78ea232052df889856dcb7b7b542707c89bb3bfb">
+        <dex dex="D:\Proj\IntelliJIDEA\CareForU\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_fab5860aea69a6a841d9acbdb777c516c05ccc67\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Dannie\.android\build-cache\05c28185557e238309596e52e2f98b939cf4bf2a\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d9ea4cdaafa29ec4651d6e4715788d3fcaa7b913">
+        <dex dex="D:\Proj\IntelliJIDEA\CareForU\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_07cf1089853dab5105d9fa766cf0f4d1a7a513d4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Dannie\.android\build-cache\d63bf78902a80d9f20110fc3bb3ed69972eb2e6b\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="94d9cedd04b124aed044ac71c451a292856d854c">
+        <dex dex="D:\Proj\IntelliJIDEA\CareForU\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_e2d73c85ecfde95cbc0a087146fc5863723909ba\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Dannie\.android\build-cache\97bcc13db4b369b270e50acbc90a66a25594d223\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7f2420506110902f033406b25697cf97ee8c38b2">
+        <dex dex="D:\Proj\IntelliJIDEA\CareForU\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_9489441f5a1e6754034c51151ec1db9ebbe5349b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Dannie\.android\build-cache\2510504370ed2edd01b79bda3dd993fdb2a9fe72\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6fb6ac3e8d3b9013819920d9ea11f3803c4c0033">
+        <dex dex="D:\Proj\IntelliJIDEA\CareForU\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_e315ef2c3363a25b47632415f5f40556bd15dcc1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Dannie\.android\build-cache\d9770d5f819d8d65a916bce1bbdd52d9875145ed\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b8e0372ca6dc89ac4fe22b76eeea4f68ece435b8">
+        <dex dex="D:\Proj\IntelliJIDEA\CareForU\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_e632170b688d4338d499728f507661fbd975bc31\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Dannie\.android\build-cache\472105bc6d47d4ada3b886d17b24e1f39832cfd6\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4ec890171a97b5ab98292f131aa784e0f3792c73">
+        <dex dex="D:\Proj\IntelliJIDEA\CareForU\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_19b348d41582416e38f1dec99151922e33dd7071\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Dannie\.android\build-cache\4bc3bba9ece6fa2175075e4efdfb7ce6c5e54045\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="764d32faf85bc6f7bd2cdcb3a70a482c1884fdd2">
+        <dex dex="D:\Proj\IntelliJIDEA\CareForU\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_5588d35455e457f421ec0d4488a7597bc4b75c9d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Dannie\.android\build-cache\0dfbca3a3ca95ba854d1f991b1dfe2ef56c8814f\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="143813b18381b28de1e04aae1d92fcb374a0add9">
+        <dex dex="D:\Proj\IntelliJIDEA\CareForU\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_05aff90cf6ce5f596585f482321dc36de0297476\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Dannie\.android\build-cache\71f0646c9285870893a99f0eea1f2c036b8a572d\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f4fb6981392ca7680d02fd57d26d6124c141d9d9">
+        <dex dex="D:\Proj\IntelliJIDEA\CareForU\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_9ea5c08445d42e2b5f751d7f91496c4e74e97c27\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Dannie\.gradle\caches\modules-2\files-2.1\org.apache.commons\commons-lang3\3.5\6c6c702c89bfff3cd9e80b04d668c5e190d588c6\commons-lang3-3.5.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6c6c702c89bfff3cd9e80b04d668c5e190d588c6">
+        <dex dex="D:\Proj\IntelliJIDEA\CareForU\app\build\intermediates\transforms\dex\debug\folders\1000\10\commons-lang3-3.5_1272d72c599ba38aae9334d6f68bb1d0b34546fd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Dannie\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.6.0\98476622f10715998eacf9240d6b479f12c66143\okio-1.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="D:\Proj\IntelliJIDEA\CareForU\app\build\intermediates\transforms\dex\debug\folders\1000\10\okio-1.6.0_f46067cec260316cf7882f205ab06f7f817a4d14\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Dannie\.android\build-cache\deab27a0196864f89573a428b3226385fa753a60\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="568d5bda0b4d51f90d978ace369bb9ad024d2057">
+        <dex dex="D:\Proj\IntelliJIDEA\CareForU\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_85e9e16b51f9fab0858a4a3dd1457f00447795fd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Dannie\.android\build-cache\1c794590b47b8bd4c8a059e67c2da548e87d02b1\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b266c8faa5af72e579b9da36ef35053ffed6ac64">
+        <dex dex="D:\Proj\IntelliJIDEA\CareForU\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_4c28bf77c87e954763efe9452c3859935133af3d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Program Files\Android SDK\extras\android\m2repository\com\android\support\support-annotations\25.1.0\support-annotations-25.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="64cb6b229a8bdfd907bc8dd46839a0053e4c018d">
+        <dex dex="D:\Proj\IntelliJIDEA\CareForU\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.1.0_1f0769a04fa6f91e4e2d866a3bdfaf0a1eacef37\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Dannie\.android\build-cache\acb537a35bba849b3f06ff0d972e2358735834a7\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="53f10fcd322a3931495d6ca2078a81f4957cdbce">
+        <dex dex="D:\Proj\IntelliJIDEA\CareForU\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_3e2687e0ce438712ed67578c42068a190b9a3a70\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Dannie\.android\build-cache\b121750b500384dbffdf376024eb44fc9ccc6407\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2ab5be19bbd34bae74662ea6b2d4451314d92d97">
+        <dex dex="D:\Proj\IntelliJIDEA\CareForU\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_e077f9909e0e37e7634e71ad1712a054ad00474d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Dannie\.android\build-cache\15b49385f125d2cef4108665e020f5af454c8674\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="604ecf403feb0084dc6d0c12f1677a490cf45e4c">
+        <dex dex="D:\Proj\IntelliJIDEA\CareForU\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_89b1fbb1b1f6d8050988e2bc374a9bb9e5d77c34\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Dannie\.android\build-cache\e9efac9942119cdd9beb2bc0e24c1e5db55aa8b3\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="fa472b7cbd3897bf6bed6068ac0b00e494987688">
+        <dex dex="D:\Proj\IntelliJIDEA\CareForU\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_b48c76547561fa96df178b55f299039d8f7b9fad\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Dannie\.android\build-cache\83c9982cb16c535f414d4f68fa36fac20c1b3632\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d38084015027549951cbaea5d5f6fb795cc81151">
+        <dex dex="D:\Proj\IntelliJIDEA\CareForU\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_5e8c56a7658a06fbfad4967d3c4fe0dab362f6f2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Dannie\.android\build-cache\ebadddefa5d4fb97e2e5504852a8173294e7bbb8\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="D:\Proj\IntelliJIDEA\CareForU\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_170aa40b099e7bc75a29bf6d764fdda4734f6a82\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Dannie\.android\build-cache\f6b6f633a5a6f830eadc286d9b42ac40f6f540d7\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f399a2fde7888450cadcaec4974bfd169d8cce43">
+        <dex dex="D:\Proj\IntelliJIDEA\CareForU\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_35e4de27634c422b67e2a7c02fc90c43ad33e7cb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Dannie\.android\build-cache\7f015d69ab58627af5d277e5f21a747593f534dd\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9919563cffd8e3732e944d3c437d4b9575a08448">
+        <dex dex="D:\Proj\IntelliJIDEA\CareForU\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_bd7ee0f973b4b0d4aa0b38ef70641e5b537bf3dd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Dannie\.android\build-cache\775cf98d145f16da1c11d0b23899c4531c90f352\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d358b3dd49a7c67844622dcbc9cf4339e13952ce">
+        <dex dex="D:\Proj\IntelliJIDEA\CareForU\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_2805a54407b6d254459279db71ff638bb09ea0d3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Dannie\.android\build-cache\843b874772f5b81df9f90febdc6ca57aea6d6afe\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="aee64634871d88a419d59eb743c1258a60f19700">
+        <dex dex="D:\Proj\IntelliJIDEA\CareForU\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_90473e4ae8db8a7018980745af96a38eebd91497\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Dannie\.android\build-cache\dae0b15b373497c6c0e39830afbbb796bece6671\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="aec1bc54964a85d851c2c1b1cb7f90f7dbd755ab">
+        <dex dex="D:\Proj\IntelliJIDEA\CareForU\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_7397b0b04a1322eb0c6ae29c34609d1aa8cc1878\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Dannie\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp\okhttp\2.5.0\4de2b4ed3445c37ec1720a7d214712e845a24636\okhttp-2.5.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4de2b4ed3445c37ec1720a7d214712e845a24636">
+        <dex dex="D:\Proj\IntelliJIDEA\CareForU\app\build\intermediates\transforms\dex\debug\folders\1000\10\okhttp-2.5.0_74e4dd38ff9858c75fb9d8b109b2643aa074f3a3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Dannie\.android\build-cache\ebb3f87cc08845613ec56dce04d787d7c6d0348a\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f2774b1e02e5fbc524590311a744263c3b152d63">
+        <dex dex="D:\Proj\IntelliJIDEA\CareForU\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_e14d425223f5d631f5676695e1672b20d8fb2db5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Dannie\.android\build-cache\b710eb19f92b500debe42bf527814c1bb932ee7d\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="829c6e46cb221c2102801221c648b77113743e81">
+        <dex dex="D:\Proj\IntelliJIDEA\CareForU\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_10c27c57e8133f75400e3ced3bf32e37e65a65ad\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Dannie\.android\build-cache\92237d66743be9dc43a39139847600e6c053378b\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="bc156efaaee99f1ef6bf471347373a4cbb28e2a1">
+        <dex dex="D:\Proj\IntelliJIDEA\CareForU\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_a48ca822b3693902f13ef46edee9bfecb88c1554\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Dannie\.android\build-cache\0f6d885c43e50733d6056a7d2650d4e67ed77dd2\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d900f2a1ff098cac8befe6c023d723e9afb154be">
+        <dex dex="D:\Proj\IntelliJIDEA\CareForU\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_4aa6c1bc9de9b085057c7f2bab52da63c9c00c94\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Dannie\.android\build-cache\d9770d5f819d8d65a916bce1bbdd52d9875145ed\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b8e0372ca6dc89ac4fe22b76eeea4f68ece435b8">
+        <dex dex="D:\Proj\IntelliJIDEA\CareForU\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_e632170b688d4338d499728f507661fbd975bc31\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Dannie\.android\build-cache\05c28185557e238309596e52e2f98b939cf4bf2a\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d9ea4cdaafa29ec4651d6e4715788d3fcaa7b913">
+        <dex dex="D:\Proj\IntelliJIDEA\CareForU\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_07cf1089853dab5105d9fa766cf0f4d1a7a513d4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Dannie\.android\build-cache\775cf98d145f16da1c11d0b23899c4531c90f352\output\jars\libs\internal_impl-23.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="03d38bb042efe3e5ce27ba66b729a9523c36d8fe">
+        <dex dex="D:\Proj\IntelliJIDEA\CareForU\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.0.0_1ea7b0551decf84759946cd3568d8fac16682e86\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Dannie\.android\build-cache\9dbc8ed5d9a1da8e3e03b5d99c09386761f5886b\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="fe5b47e764869f1076cb9cfe12801ed2ef4e9117">
+        <dex dex="D:\Proj\IntelliJIDEA\CareForU\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_8afb1be245313fe8dd09861bb23168f31f1660ec\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Dannie\.android\build-cache\71f0646c9285870893a99f0eea1f2c036b8a572d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f4fb6981392ca7680d02fd57d26d6124c141d9d9">
+        <dex dex="D:\Proj\IntelliJIDEA\CareForU\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_9ea5c08445d42e2b5f751d7f91496c4e74e97c27\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Dannie\.android\build-cache\d84e38c60dac9053ac388f6e955274e95139a9d2\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b3d0809a742c5f768c6aa9efc6decd5c1d6cd227">
+        <dex dex="D:\Proj\IntelliJIDEA\CareForU\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_9107d44ef08b13a6c32b2e7f4dc8fca450e6e5e4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Dannie\.android\build-cache\f6b6f633a5a6f830eadc286d9b42ac40f6f540d7\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f399a2fde7888450cadcaec4974bfd169d8cce43">
+        <dex dex="D:\Proj\IntelliJIDEA\CareForU\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_35e4de27634c422b67e2a7c02fc90c43ad33e7cb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Dannie\.android\build-cache\a7abb0079fedaa460e9d4f34444906af0acd5aa9\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="060a7157438a0b1b0706b99c430fb3ecbc5a79a4">
+        <dex dex="D:\Proj\IntelliJIDEA\CareForU\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_2f7a2e9a951681eec4d4491600c8bc63f002b832\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Dannie\.android\build-cache\4bc3bba9ece6fa2175075e4efdfb7ce6c5e54045\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="764d32faf85bc6f7bd2cdcb3a70a482c1884fdd2">
+        <dex dex="D:\Proj\IntelliJIDEA\CareForU\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_5588d35455e457f421ec0d4488a7597bc4b75c9d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Dannie\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp\okhttp\2.5.0\4de2b4ed3445c37ec1720a7d214712e845a24636\okhttp-2.5.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4de2b4ed3445c37ec1720a7d214712e845a24636">
+        <dex dex="D:\Proj\IntelliJIDEA\CareForU\app\build\intermediates\transforms\dex\debug\folders\1000\10\okhttp-2.5.0_74e4dd38ff9858c75fb9d8b109b2643aa074f3a3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Dannie\.android\build-cache\411543cc447f3cd2116256d5e52b643b1338bdb1\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a498fab72f8663c26fbf3d4496eb6b673b17bcae">
+        <dex dex="D:\Proj\IntelliJIDEA\CareForU\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_2a584a1ece91fa0dd8db45bbe712bf1972893407\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Dannie\.android\build-cache\d63bf78902a80d9f20110fc3bb3ed69972eb2e6b\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="94d9cedd04b124aed044ac71c451a292856d854c">
+        <dex dex="D:\Proj\IntelliJIDEA\CareForU\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_e2d73c85ecfde95cbc0a087146fc5863723909ba\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Dannie\.android\build-cache\15b49385f125d2cef4108665e020f5af454c8674\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="604ecf403feb0084dc6d0c12f1677a490cf45e4c">
+        <dex dex="D:\Proj\IntelliJIDEA\CareForU\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_89b1fbb1b1f6d8050988e2bc374a9bb9e5d77c34\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Program Files\Android SDK\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="D:\Proj\IntelliJIDEA\CareForU\app\build\intermediates\transforms\dex\debug\folders\1000\10\constraint-layout-solver-1.0.2_33b00d70ff9c4be4b2d0d2fb75924bf40b312d48\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Dannie\.android\build-cache\57047a9e6d7b033e95cf31a091bb06c520ba712e\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="92a1d5f71b0fc8938f1d3f2e6ef984b52b894b4d">
+        <dex dex="D:\Proj\IntelliJIDEA\CareForU\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_fc9703d01208e984aefddca25973587b447728a4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Dannie\.android\build-cache\acb537a35bba849b3f06ff0d972e2358735834a7\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="53f10fcd322a3931495d6ca2078a81f4957cdbce">
+        <dex dex="D:\Proj\IntelliJIDEA\CareForU\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_3e2687e0ce438712ed67578c42068a190b9a3a70\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Dannie\.android\build-cache\1c794590b47b8bd4c8a059e67c2da548e87d02b1\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b266c8faa5af72e579b9da36ef35053ffed6ac64">
+        <dex dex="D:\Proj\IntelliJIDEA\CareForU\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_4c28bf77c87e954763efe9452c3859935133af3d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Dannie\.android\build-cache\85222d1e4dc3dc8b063097738a189530aded123b\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c96952c162c9f6076f44c5939982cb35491442ea">
+        <dex dex="D:\Proj\IntelliJIDEA\CareForU\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_89583fd646b87f537e9a4119694ab6cdc3872009\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Dannie\.android\build-cache\eaff008ae9090cc2aee6acac9c0a3d8fd3540824\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8c0fc9b1ea0bac0cb31d60c8b1bf2feb0518e3a9">
+        <dex dex="D:\Proj\IntelliJIDEA\CareForU\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_4ab4cad79076f3cde8dedd95c9fcf45b61ddb11f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Dannie\.android\build-cache\bb58dca49ed36ae6b51f88071044c9b406f3dcb2\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d237556caead5b93d97e18a071059a2c0045978e">
+        <dex dex="D:\Proj\IntelliJIDEA\CareForU\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_7651718d87f8b5339a4ca91478ac8de2469c9fd2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Dannie\.android\build-cache\181936e72221721949c84cd6da1207f09f51faa2\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0a0ef86b7fa568a52bf6214a0326ca1f1d618da7">
+        <dex dex="D:\Proj\IntelliJIDEA\CareForU\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_3767d8dbc94df00e629617b1d55f53f4c9658147\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Dannie\.android\build-cache\775cf98d145f16da1c11d0b23899c4531c90f352\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d358b3dd49a7c67844622dcbc9cf4339e13952ce">
+        <dex dex="D:\Proj\IntelliJIDEA\CareForU\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_2805a54407b6d254459279db71ff638bb09ea0d3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Dannie\.android\build-cache\ebadddefa5d4fb97e2e5504852a8173294e7bbb8\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="D:\Proj\IntelliJIDEA\CareForU\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_170aa40b099e7bc75a29bf6d764fdda4734f6a82\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Dannie\.android\build-cache\075bc5f06bc7e5ee50d4a97042f2bac299fe30be\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6ff48ef26bc539c78af4aa061cb9bad6abcbf5e8">
+        <dex dex="D:\Proj\IntelliJIDEA\CareForU\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_5ce9cacbd43df098aa4ed35059f6a4a233907924\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Dannie\.gradle\caches\modules-2\files-2.1\org.apache.commons\commons-lang3\3.5\6c6c702c89bfff3cd9e80b04d668c5e190d588c6\commons-lang3-3.5.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6c6c702c89bfff3cd9e80b04d668c5e190d588c6">
+        <dex dex="D:\Proj\IntelliJIDEA\CareForU\app\build\intermediates\transforms\dex\debug\folders\1000\10\commons-lang3-3.5_1272d72c599ba38aae9334d6f68bb1d0b34546fd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Dannie\.android\build-cache\5ad58ea1bc2bfc60bdb4b08915722390254521f8\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="cf16220db9128d91a215aedc739584181d5ca6a4">
+        <dex dex="D:\Proj\IntelliJIDEA\CareForU\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_d7f3acb3350a2320347b784bf8c39be1dfe9f3d7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Dannie\.android\build-cache\843b874772f5b81df9f90febdc6ca57aea6d6afe\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="aee64634871d88a419d59eb743c1258a60f19700">
+        <dex dex="D:\Proj\IntelliJIDEA\CareForU\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_90473e4ae8db8a7018980745af96a38eebd91497\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Dannie\.android\build-cache\7f015d69ab58627af5d277e5f21a747593f534dd\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9919563cffd8e3732e944d3c437d4b9575a08448">
+        <dex dex="D:\Proj\IntelliJIDEA\CareForU\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_bd7ee0f973b4b0d4aa0b38ef70641e5b537bf3dd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Dannie\.android\build-cache\597f5aa78d38fa4251eb282c3b6c5523cc9fc118\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9819419ce8d79f3f81a0fc70f9345ac8c843af9c">
+        <dex dex="D:\Proj\IntelliJIDEA\CareForU\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_7741c42f1dc88e8ed8315a48c36d6fb1bc0aed47\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Dannie\.android\build-cache\a6ffc6f9126ba573bc132ad8aae03bb5e16f27db\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e11da70cff6a544a45cdc21f419802d9bb9043ac">
+        <dex dex="D:\Proj\IntelliJIDEA\CareForU\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_c614a0f18b0a2b522f9097c74f41f46a51554e7c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Dannie\.android\build-cache\fe40df6b41f99229b67d6fee00213c0152bd6907\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1630658fbc2d222b988603c27b4a4249586fbfe7">
+        <dex dex="D:\Proj\IntelliJIDEA\CareForU\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_4800b28ec41e9c2d4c9cc64dc529246f4927043c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Dannie\.android\build-cache\b08c15b07c231d84181448d950360c56f326d5be\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e6970f0554f9508c041f1f6960af15cc888c9f35">
+        <dex dex="D:\Proj\IntelliJIDEA\CareForU\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_e843e33690d4af86ddb58b3e879f13314e401c6d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Dannie\.android\build-cache\d84e38c60dac9053ac388f6e955274e95139a9d2\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b3d0809a742c5f768c6aa9efc6decd5c1d6cd227">
+        <dex dex="D:\Proj\IntelliJIDEA\CareForU\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_9107d44ef08b13a6c32b2e7f4dc8fca450e6e5e4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Dannie\.android\build-cache\ebb3f87cc08845613ec56dce04d787d7c6d0348a\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f2774b1e02e5fbc524590311a744263c3b152d63">
+        <dex dex="D:\Proj\IntelliJIDEA\CareForU\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_e14d425223f5d631f5676695e1672b20d8fb2db5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Dannie\.android\build-cache\b710eb19f92b500debe42bf527814c1bb932ee7d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="829c6e46cb221c2102801221c648b77113743e81">
+        <dex dex="D:\Proj\IntelliJIDEA\CareForU\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_10c27c57e8133f75400e3ced3bf32e37e65a65ad\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Dannie\.android\build-cache\f8456e40d336c1f1975a472d6aab6a2a02f42459\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a511c684ea4c2cf31a3377d51e7677cb76696e07">
+        <dex dex="D:\Proj\IntelliJIDEA\CareForU\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_66bc025a9d28ceda973048f05da94ad716a959e3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Dannie\.android\build-cache\32f4d832490f2ccf57843fee3d0dedc1ac100a21\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a45bc1ed812137b21dddd1cedaa3712b308f0b3f">
+        <dex dex="D:\Proj\IntelliJIDEA\CareForU\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_e754247712cd895020fe55011aa7111b217b52f7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Dannie\.android\build-cache\093c2365f2602c589188195d44ba85c9b5cf368d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0c835e9f3875cf245877c9b17d1c69bc98f16057">
+        <dex dex="D:\Proj\IntelliJIDEA\CareForU\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_dd5bd6beac0a532e0e9feecb9eec63617dfb1977\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Dannie\.android\build-cache\dd061e804468d28c0bc170a9e8258b448b4f41b5\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="30103d98fa5ed824b54af839c85e2111f9bde8ec">
+        <dex dex="D:\Proj\IntelliJIDEA\CareForU\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_26efd68af98df28597de3d022ed6ee35b6c74076\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Dannie\.android\build-cache\e7104c434499170ae63635c460722eef458046a3\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="D:\Proj\IntelliJIDEA\CareForU\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_ce23937f668dde61a47c31b97f9eeae737f960b2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Dannie\.android\build-cache\57047a9e6d7b033e95cf31a091bb06c520ba712e\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="92a1d5f71b0fc8938f1d3f2e6ef984b52b894b4d">
+        <dex dex="D:\Proj\IntelliJIDEA\CareForU\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_fc9703d01208e984aefddca25973587b447728a4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Dannie\.android\build-cache\b08c15b07c231d84181448d950360c56f326d5be\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e6970f0554f9508c041f1f6960af15cc888c9f35">
+        <dex dex="D:\Proj\IntelliJIDEA\CareForU\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_e843e33690d4af86ddb58b3e879f13314e401c6d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Dannie\.android\build-cache\a7abb0079fedaa460e9d4f34444906af0acd5aa9\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="060a7157438a0b1b0706b99c430fb3ecbc5a79a4">
+        <dex dex="D:\Proj\IntelliJIDEA\CareForU\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_2f7a2e9a951681eec4d4491600c8bc63f002b832\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Dannie\.android\build-cache\597f5aa78d38fa4251eb282c3b6c5523cc9fc118\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9819419ce8d79f3f81a0fc70f9345ac8c843af9c">
+        <dex dex="D:\Proj\IntelliJIDEA\CareForU\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_7741c42f1dc88e8ed8315a48c36d6fb1bc0aed47\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Dannie\.android\build-cache\9dbc8ed5d9a1da8e3e03b5d99c09386761f5886b\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="fe5b47e764869f1076cb9cfe12801ed2ef4e9117">
+        <dex dex="D:\Proj\IntelliJIDEA\CareForU\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_8afb1be245313fe8dd09861bb23168f31f1660ec\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Dannie\.android\build-cache\9b66b25975313eead33b5463d89d7dc35b8e099b\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="51a11c41a08f099a204e1b8dcc04f27217de50ec">
+        <dex dex="D:\Proj\IntelliJIDEA\CareForU\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_b317ebec9e09a456d2708244dd9fb980e08967f9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Dannie\.android\build-cache\85222d1e4dc3dc8b063097738a189530aded123b\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c96952c162c9f6076f44c5939982cb35491442ea">
+        <dex dex="D:\Proj\IntelliJIDEA\CareForU\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_89583fd646b87f537e9a4119694ab6cdc3872009\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Dannie\.android\build-cache\cf74a4363b8f4869d020524d88e03714ec5e7e99\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6c58c14d15602fea2c50138c73bb107e8b832b62">
+        <dex dex="D:\Proj\IntelliJIDEA\CareForU\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_4d2732c41316943911ead38cb2774d956b3d83ae\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Program Files\Android SDK\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="D:\Proj\IntelliJIDEA\CareForU\app\build\intermediates\transforms\dex\debug\folders\1000\10\constraint-layout-solver-1.0.2_33b00d70ff9c4be4b2d0d2fb75924bf40b312d48\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Dannie\.android\build-cache\775cf98d145f16da1c11d0b23899c4531c90f352\output\jars\libs\internal_impl-23.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="03d38bb042efe3e5ce27ba66b729a9523c36d8fe">
+        <dex dex="D:\Proj\IntelliJIDEA\CareForU\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.0.0_1ea7b0551decf84759946cd3568d8fac16682e86\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Dannie\.android\build-cache\dfff99c0a7779c65f4772bd6d7486d1db7fbc778\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b6af089f583d547bcffc0689b2e80bc7aaa54b15">
+        <dex dex="D:\Proj\IntelliJIDEA\CareForU\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_5d47f86727cd6ddd07c5146e50589dbe9dcafe52\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Dannie\.android\build-cache\786d83268e90405e034dd3697aec48679e26343a\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="cd4c7c54e15d9ccbc448384fa2c4684d69ca73f0">
+        <dex dex="D:\Proj\IntelliJIDEA\CareForU\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_da9bd5f07253de26e4d19568e61f6293794f210d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Proj\IntelliJIDEA\CareForU\app\libs\volley.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d4aaa36e04ee71a83444f8367c97a46fda662d2c">
+        <dex dex="D:\Proj\IntelliJIDEA\CareForU\app\build\intermediates\transforms\dex\debug\folders\1000\2\volley_50ff489aee2f08f7ad25ea86f32a96865b17f34b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Dannie\.android\build-cache\41557a53ca1354eb60df0a69d03a8bf8559aad6d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="20e1a0f0de6276a5f36062b655f8b20f8cc00cc4">
+        <dex dex="D:\Proj\IntelliJIDEA\CareForU\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_12dd2056d494f28579e416fb3ba0208ba3ee3e2c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Dannie\.android\build-cache\dfff99c0a7779c65f4772bd6d7486d1db7fbc778\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b6af089f583d547bcffc0689b2e80bc7aaa54b15">
+        <dex dex="D:\Proj\IntelliJIDEA\CareForU\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_5d47f86727cd6ddd07c5146e50589dbe9dcafe52\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Dannie\.android\build-cache\4cad43434b3176bfc32a9c4b2e0106dd21024185\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="922c24fbfc4247947fcfaf2b95f295a16a8c3d17">
+        <dex dex="D:\Proj\IntelliJIDEA\CareForU\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_41f7f277c4e8d9759c75938a993373e4cc94508c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Dannie\.android\build-cache\cf74a4363b8f4869d020524d88e03714ec5e7e99\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6c58c14d15602fea2c50138c73bb107e8b832b62">
+        <dex dex="D:\Proj\IntelliJIDEA\CareForU\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_4d2732c41316943911ead38cb2774d956b3d83ae\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Dannie\.android\build-cache\37eb7e37528f14b94982832a66c37ef220f41260\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f02263e35e52668dd17b73bf961437e3d562b35f">
+        <dex dex="D:\Proj\IntelliJIDEA\CareForU\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_c24db7a0e5044e91684455449cf47777d5cdf530\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Dannie\.android\build-cache\181936e72221721949c84cd6da1207f09f51faa2\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0a0ef86b7fa568a52bf6214a0326ca1f1d618da7">
+        <dex dex="D:\Proj\IntelliJIDEA\CareForU\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_3767d8dbc94df00e629617b1d55f53f4c9658147\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Dannie\.android\build-cache\bb58dca49ed36ae6b51f88071044c9b406f3dcb2\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d237556caead5b93d97e18a071059a2c0045978e">
+        <dex dex="D:\Proj\IntelliJIDEA\CareForU\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_7651718d87f8b5339a4ca91478ac8de2469c9fd2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Dannie\.android\build-cache\411543cc447f3cd2116256d5e52b643b1338bdb1\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a498fab72f8663c26fbf3d4496eb6b673b17bcae">
+        <dex dex="D:\Proj\IntelliJIDEA\CareForU\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_2a584a1ece91fa0dd8db45bbe712bf1972893407\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Dannie\.android\build-cache\fe40df6b41f99229b67d6fee00213c0152bd6907\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1630658fbc2d222b988603c27b4a4249586fbfe7">
+        <dex dex="D:\Proj\IntelliJIDEA\CareForU\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_4800b28ec41e9c2d4c9cc64dc529246f4927043c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Dannie\.android\build-cache\1e7e1962e01e060dc849a861a3f9fbabdae72d13\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="79e298d7fed2fcada58da7032d07d34ee198a545">
+        <dex dex="D:\Proj\IntelliJIDEA\CareForU\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_ed2c0111cc5826c424a4c57633df3cd2bd43efb8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Dannie\.android\build-cache\f8456e40d336c1f1975a472d6aab6a2a02f42459\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a511c684ea4c2cf31a3377d51e7677cb76696e07">
+        <dex dex="D:\Proj\IntelliJIDEA\CareForU\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_66bc025a9d28ceda973048f05da94ad716a959e3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Dannie\.android\build-cache\5ad58ea1bc2bfc60bdb4b08915722390254521f8\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="cf16220db9128d91a215aedc739584181d5ca6a4">
+        <dex dex="D:\Proj\IntelliJIDEA\CareForU\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_d7f3acb3350a2320347b784bf8c39be1dfe9f3d7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Dannie\.android\build-cache\a6ffc6f9126ba573bc132ad8aae03bb5e16f27db\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e11da70cff6a544a45cdc21f419802d9bb9043ac">
+        <dex dex="D:\Proj\IntelliJIDEA\CareForU\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_c614a0f18b0a2b522f9097c74f41f46a51554e7c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Dannie\.android\build-cache\093c2365f2602c589188195d44ba85c9b5cf368d\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0c835e9f3875cf245877c9b17d1c69bc98f16057">
+        <dex dex="D:\Proj\IntelliJIDEA\CareForU\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_dd5bd6beac0a532e0e9feecb9eec63617dfb1977\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Dannie\.android\build-cache\eaff008ae9090cc2aee6acac9c0a3d8fd3540824\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8c0fc9b1ea0bac0cb31d60c8b1bf2feb0518e3a9">
+        <dex dex="D:\Proj\IntelliJIDEA\CareForU\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_4ab4cad79076f3cde8dedd95c9fcf45b61ddb11f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Dannie\.android\build-cache\254c4d435cc35e027515e3d81ac75991dca6deae\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4022261eeea0d92eb2997a68d2c1f084a16abad9">
+        <dex dex="D:\Proj\IntelliJIDEA\CareForU\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_edc86045a6ef15239174c3d11009d4e85651de80\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Dannie\.gradle\caches\modules-2\files-2.1\com.squareup.picasso\picasso\2.5.2\7446d06ec8d4f7ffcc53f1da37c95f200dcb9387\picasso-2.5.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="D:\Proj\IntelliJIDEA\CareForU\app\build\intermediates\transforms\dex\debug\folders\1000\10\picasso-2.5.2_35c158a936d09deab3b785467d96e09e01c7779c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Dannie\.android\build-cache\32f4d832490f2ccf57843fee3d0dedc1ac100a21\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a45bc1ed812137b21dddd1cedaa3712b308f0b3f">
+        <dex dex="D:\Proj\IntelliJIDEA\CareForU\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_e754247712cd895020fe55011aa7111b217b52f7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Dannie\.android\build-cache\bc8b095f53a75af6455af54f9b9f0b1a5b424d2f\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7e52b440a26498c56b4f263e215223b5451c955e">
+        <dex dex="D:\Proj\IntelliJIDEA\CareForU\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_ae3ec14a383fb776d3bf62049ffcf1281b9f9dc7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Dannie\.android\build-cache\74a6be73c5df3a1b97ef89276e24b649540af8e0\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ca3c7aa31e2726a400a6e552b93cb9f63c9a1e6d">
+        <dex dex="D:\Proj\IntelliJIDEA\CareForU\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_51e4ffcbb17f461330ef9c650247f2d91a4038d2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Dannie\.android\build-cache\786d83268e90405e034dd3697aec48679e26343a\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="cd4c7c54e15d9ccbc448384fa2c4684d69ca73f0">
+        <dex dex="D:\Proj\IntelliJIDEA\CareForU\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_da9bd5f07253de26e4d19568e61f6293794f210d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Dannie\.android\build-cache\e7104c434499170ae63635c460722eef458046a3\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="D:\Proj\IntelliJIDEA\CareForU\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_ce23937f668dde61a47c31b97f9eeae737f960b2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Dannie\.android\build-cache\2510504370ed2edd01b79bda3dd993fdb2a9fe72\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6fb6ac3e8d3b9013819920d9ea11f3803c4c0033">
+        <dex dex="D:\Proj\IntelliJIDEA\CareForU\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_e315ef2c3363a25b47632415f5f40556bd15dcc1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Dannie\.android\build-cache\dd061e804468d28c0bc170a9e8258b448b4f41b5\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="30103d98fa5ed824b54af839c85e2111f9bde8ec">
+        <dex dex="D:\Proj\IntelliJIDEA\CareForU\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_26efd68af98df28597de3d022ed6ee35b6c74076\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Dannie\.android\build-cache\662c7052ca01bfbd3737d7d11e675c28d84591a6\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2a53c4f3518116b8c6aee0e477233f0f7da8616f">
+        <dex dex="D:\Proj\IntelliJIDEA\CareForU\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_d419517a5243e79843c987019c1219d2c535d4b0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Dannie\.android\build-cache\472105bc6d47d4ada3b886d17b24e1f39832cfd6\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4ec890171a97b5ab98292f131aa784e0f3792c73">
+        <dex dex="D:\Proj\IntelliJIDEA\CareForU\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_19b348d41582416e38f1dec99151922e33dd7071\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Dannie\.android\build-cache\deab27a0196864f89573a428b3226385fa753a60\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="568d5bda0b4d51f90d978ace369bb9ad024d2057">
+        <dex dex="D:\Proj\IntelliJIDEA\CareForU\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_85e9e16b51f9fab0858a4a3dd1457f00447795fd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Dannie\.android\build-cache\075bc5f06bc7e5ee50d4a97042f2bac299fe30be\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6ff48ef26bc539c78af4aa061cb9bad6abcbf5e8">
+        <dex dex="D:\Proj\IntelliJIDEA\CareForU\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_5ce9cacbd43df098aa4ed35059f6a4a233907924\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Dannie\.android\build-cache\dc54d729615aafac415188c51c0d461f1e7925a8\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e79aa3d9a16f8c9f16377c0608de70a8f31e5d80">
+        <dex dex="D:\Proj\IntelliJIDEA\CareForU\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_429b066b2aa07be373e99ecf0e223c10e8ea68dc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Dannie\.android\build-cache\97bcc13db4b369b270e50acbc90a66a25594d223\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7f2420506110902f033406b25697cf97ee8c38b2">
+        <dex dex="D:\Proj\IntelliJIDEA\CareForU\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_9489441f5a1e6754034c51151ec1db9ebbe5349b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Dannie\.android\build-cache\41557a53ca1354eb60df0a69d03a8bf8559aad6d\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="20e1a0f0de6276a5f36062b655f8b20f8cc00cc4">
+        <dex dex="D:\Proj\IntelliJIDEA\CareForU\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_12dd2056d494f28579e416fb3ba0208ba3ee3e2c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Dannie\.android\build-cache\9b66b25975313eead33b5463d89d7dc35b8e099b\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="51a11c41a08f099a204e1b8dcc04f27217de50ec">
+        <dex dex="D:\Proj\IntelliJIDEA\CareForU\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_b317ebec9e09a456d2708244dd9fb980e08967f9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Dannie\.android\build-cache\b121750b500384dbffdf376024eb44fc9ccc6407\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2ab5be19bbd34bae74662ea6b2d4451314d92d97">
+        <dex dex="D:\Proj\IntelliJIDEA\CareForU\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_e077f9909e0e37e7634e71ad1712a054ad00474d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Program Files\Android SDK\extras\android\m2repository\com\android\support\support-annotations\25.1.0\support-annotations-25.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="64cb6b229a8bdfd907bc8dd46839a0053e4c018d">
+        <dex dex="D:\Proj\IntelliJIDEA\CareForU\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.1.0_1f0769a04fa6f91e4e2d866a3bdfaf0a1eacef37\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Dannie\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.6.0\98476622f10715998eacf9240d6b479f12c66143\okio-1.6.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="D:\Proj\IntelliJIDEA\CareForU\app\build\intermediates\transforms\dex\debug\folders\1000\10\okio-1.6.0_f46067cec260316cf7882f205ab06f7f817a4d14\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Dannie\.android\build-cache\4cad43434b3176bfc32a9c4b2e0106dd21024185\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="922c24fbfc4247947fcfaf2b95f295a16a8c3d17">
+        <dex dex="D:\Proj\IntelliJIDEA\CareForU\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_41f7f277c4e8d9759c75938a993373e4cc94508c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Dannie\.android\build-cache\254c4d435cc35e027515e3d81ac75991dca6deae\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4022261eeea0d92eb2997a68d2c1f084a16abad9">
+        <dex dex="D:\Proj\IntelliJIDEA\CareForU\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_edc86045a6ef15239174c3d11009d4e85651de80\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Dannie\.android\build-cache\dc54d729615aafac415188c51c0d461f1e7925a8\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e79aa3d9a16f8c9f16377c0608de70a8f31e5d80">
+        <dex dex="D:\Proj\IntelliJIDEA\CareForU\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_429b066b2aa07be373e99ecf0e223c10e8ea68dc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Proj\IntelliJIDEA\CareForU\app\libs\volley.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d4aaa36e04ee71a83444f8367c97a46fda662d2c">
+        <dex dex="D:\Proj\IntelliJIDEA\CareForU\app\build\intermediates\transforms\dex\debug\folders\1000\2\volley_50ff489aee2f08f7ad25ea86f32a96865b17f34b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Dannie\.android\build-cache\dae0b15b373497c6c0e39830afbbb796bece6671\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="aec1bc54964a85d851c2c1b1cb7f90f7dbd755ab">
+        <dex dex="D:\Proj\IntelliJIDEA\CareForU\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_7397b0b04a1322eb0c6ae29c34609d1aa8cc1878\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Dannie\.android\build-cache\e9efac9942119cdd9beb2bc0e24c1e5db55aa8b3\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="fa472b7cbd3897bf6bed6068ac0b00e494987688">
+        <dex dex="D:\Proj\IntelliJIDEA\CareForU\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_b48c76547561fa96df178b55f299039d8f7b9fad\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Dannie\.android\build-cache\1e7e1962e01e060dc849a861a3f9fbabdae72d13\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="79e298d7fed2fcada58da7032d07d34ee198a545">
+        <dex dex="D:\Proj\IntelliJIDEA\CareForU\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_ed2c0111cc5826c424a4c57633df3cd2bd43efb8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Dannie\.android\build-cache\0dfbca3a3ca95ba854d1f991b1dfe2ef56c8814f\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="143813b18381b28de1e04aae1d92fcb374a0add9">
+        <dex dex="D:\Proj\IntelliJIDEA\CareForU\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_05aff90cf6ce5f596585f482321dc36de0297476\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Dannie\.android\build-cache\37eb7e37528f14b94982832a66c37ef220f41260\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f02263e35e52668dd17b73bf961437e3d562b35f">
+        <dex dex="D:\Proj\IntelliJIDEA\CareForU\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_c24db7a0e5044e91684455449cf47777d5cdf530\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Dannie\.android\build-cache\92237d66743be9dc43a39139847600e6c053378b\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="bc156efaaee99f1ef6bf471347373a4cbb28e2a1">
+        <dex dex="D:\Proj\IntelliJIDEA\CareForU\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_a48ca822b3693902f13ef46edee9bfecb88c1554\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Dannie\.android\build-cache\0f6d885c43e50733d6056a7d2650d4e67ed77dd2\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d900f2a1ff098cac8befe6c023d723e9afb154be">
+        <dex dex="D:\Proj\IntelliJIDEA\CareForU\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_4aa6c1bc9de9b085057c7f2bab52da63c9c00c94\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Dannie\.android\build-cache\83c9982cb16c535f414d4f68fa36fac20c1b3632\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d38084015027549951cbaea5d5f6fb795cc81151">
+        <dex dex="D:\Proj\IntelliJIDEA\CareForU\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_5e8c56a7658a06fbfad4967d3c4fe0dab362f6f2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Dannie\.android\build-cache\662c7052ca01bfbd3737d7d11e675c28d84591a6\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2a53c4f3518116b8c6aee0e477233f0f7da8616f">
+        <dex dex="D:\Proj\IntelliJIDEA\CareForU\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_d419517a5243e79843c987019c1219d2c535d4b0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Dannie\.gradle\caches\modules-2\files-2.1\com.squareup.picasso\picasso\2.5.2\7446d06ec8d4f7ffcc53f1da37c95f200dcb9387\picasso-2.5.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="D:\Proj\IntelliJIDEA\CareForU\app\build\intermediates\transforms\dex\debug\folders\1000\10\picasso-2.5.2_35c158a936d09deab3b785467d96e09e01c7779c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Dannie\.android\build-cache\bc8b095f53a75af6455af54f9b9f0b1a5b424d2f\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7e52b440a26498c56b4f263e215223b5451c955e">
+        <dex dex="D:\Proj\IntelliJIDEA\CareForU\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_ae3ec14a383fb776d3bf62049ffcf1281b9f9dc7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Dannie\.android\build-cache\74a6be73c5df3a1b97ef89276e24b649540af8e0\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ca3c7aa31e2726a400a6e552b93cb9f63c9a1e6d">
+        <dex dex="D:\Proj\IntelliJIDEA\CareForU\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_51e4ffcbb17f461330ef9c650247f2d91a4038d2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Dannie\.android\build-cache\7e70eaddcba386c2a8836600fa94ae7ad944c245\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="78ea232052df889856dcb7b7b542707c89bb3bfb">
+        <dex dex="D:\Proj\IntelliJIDEA\CareForU\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_fab5860aea69a6a841d9acbdb777c516c05ccc67\classes.dex" />
+    </item>
+
+</items>
